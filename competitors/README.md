@@ -1,6 +1,6 @@
 # Konkurrenz: App-Store-Screenshots (US, Stand 2026-11-20)
 
-Quelle: App Store Tracker (Umsatz/Downloads = Schätzung weltweit, Oktober 2026, Sensor-Tower-Stufen) + iTunes-Lookup (`screenshotUrls`, iPhone). Bilder liegen je App in `<slug>/01.jpg …` in voller Auflösung. Auswertung und Vorgaben für Mopli: `BRIEFING.md`.
+Quelle: App Store Tracker (Umsatz/Downloads = Schätzung weltweit, Oktober 2026, Sensor-Tower-Stufen) + iTunes-Lookup (`screenshotUrls`, iPhone). Bilder liegen je App in `<slug>/01.jpg …` in voller Auflösung.
 
 | # | App | App-Store-ID | Umsatz/Monat (est.) | Downloads/Monat (est.) | Screens | Erste Headline |
 |---|---|---|---|---|---|---|
